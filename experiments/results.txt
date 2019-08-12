@@ -1,0 +1,12 @@
+Part1 norm 
+L 85.4
+R 84.1
+M 93.2
+CS 86.7
+
+Part2 no norm
+MR/L 33.3
+LR/M 40.3
+LM/R 29.7
+CS 49.0
+

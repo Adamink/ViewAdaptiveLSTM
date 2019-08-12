@@ -1,0 +1,1 @@
+python3 main.py --dataset_name PKUMMD-V1-M --gpu_id 1 --version v1_m --pre_proc strans --rota --checkpoint_folder ./experiments --dataset_dir /data2/wuxiao/PKUMMD_v1/norm_input/ --more_hidden

@@ -1,0 +1,1 @@
+python3 main.py --dataset_name PKUMMD-V2-R --gpu_id 2 --version v2_r --pre_proc strans --rota --checkpoint_folder ./experiments --dataset_dir /mnt/data1/wuxiao/PKUMMD/npy_v2

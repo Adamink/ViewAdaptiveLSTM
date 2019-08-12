@@ -1,0 +1,38 @@
+Part1
+MR/L 77.2
+LR/M 89.7
+LM/R 81.8
+CS 82.8
+
+Part1 more
+MR/L 81.4
+LR/M 92.5
+LM/R 82.7
+CS 84.1
+
+Part1 LSTM baseline 
+L 85.59
+R 83.86
+M 93.18
+CS (我跑出来)84.1
+
+Part1 norm 
+L 85.4
+R 84.1
+M 93.2
+CS 86.7
+
+Part2 LSTM baseline
+R 29.04
+M 40.29
+L 29.27
+
+Part2
+MR/L 33.3
+LR/M 40.3 44.1(norm)
+LM/R 29.7
+CS 49.0
+
+
+如果用100 - 110 - 200
+
