@@ -1,4 +1,11 @@
-Generate data:
+This project implements View-Adaptive Neural Network on PKUMMD dataset. 
+
+The codes involve the following papers: 
+[View Adaptive Recurrent Neural Networks for High Performance
+Human Action Recognition from Skeleton Data](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.pdf) and [View Adaptive Recurrent Neural Networks for High Performance
+Human Action Recognition from Skeleton Data](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.pdf) 
+
+# Dataset:
 Change paths in `scripts/global_variable.py` to path to normalized PKUMMD-v1 data, and path to raw PKUMMD-v2 data and label.
 then run
 ```txt
@@ -9,7 +16,7 @@ python gen_v2.py
 python gen_v2_strans.py
 ```
 
-Run:
+# Run
 Change `--dataset_dir` in `scripts/v?_?.sh` to path to corresponding destination in `scripts/global_variable.py`, 
 then run
 ```txt
@@ -24,7 +31,7 @@ sh ./scripts/v2_M.sh
 sh ./scripts/v2_R.sh
 ```
 
-Results:
+# Results
 ```txt
 Part1 norm 
 L 85.4
