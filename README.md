@@ -1,9 +1,14 @@
+<p>
+  <img src="https://www.icst.pku.edu.cn/struct/Projects/PKU-MMD_files/teaser.png" width="400">
+</p>
+
 This project implements View-Adaptive Neural Network on PKUMMD dataset. 
 
-The codes involve the following papers: 
-[View Adaptive Recurrent Neural Networks for High Performance
-Human Action Recognition from Skeleton Data](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.pdf) and [View Adaptive Recurrent Neural Networks for High Performance
-Human Action Recognition from Skeleton Data](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.pdf) 
+The codes involve implementation of the following paper: 
+
+- [View Adaptive Recurrent Neural Networks for High Performance
+Human Action Recognition from Skeleton Data](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_View_Adaptive_Recurrent_ICCV_2017_paper.pdf)
+
 
 # Dataset:
 Change paths in `scripts/global_variable.py` to path to normalized PKUMMD-v1 data, and path to raw PKUMMD-v2 data and label.
